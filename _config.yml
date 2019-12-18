@@ -20,10 +20,16 @@ resume_contact_email:           "chris_tack@mac.com"
 resume_contact_telephone:       "(989) 326-1488"
 resume_contact_address:         "202 Madison St, Everett, WA"
 
-resume_header_contact_info:     "202 Madison St, Everett, WA • (989) 326-1488 • chris_tack@mac.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "202 Madison St, Everett, WA<br>(989) 326-1488 • chris_tack@mac.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>What you need to know about me...I'm a career-changing full-stack developer. I learned HTML, CSS, and JavaScript originally in college & then spent a few years away from development. I spent all of 2018 reacquainting myself with what's new in HTML5, CSS3, JavaScript and much more (self-taught and via attending a 12-week course). I recently completed an internship as a Software Development Engineer at Zulily (where I have worked since 2013) and am looking for a full-time developer job.</p>"
+resume_header_intro: "<p>What you need to know about me...
+<ul>
+  <li>I'm a career-changing full-stack developer.</li>
+  <li>I learned HTML, CSS, and JavaScript originally in college & then spent a few years away from development.</li>
+  <li>I spent all of 2018 reacquainting myself with what's new in HTML5, CSS3, JavaScript and much more (self-taught and via attending a 12-week course).</li>
+  <li>I recently completed an internship as a Software Development Engineer at Zulily (where I have worked since 2013) and am looking for a full-time developer job.</li>
+</ul></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
