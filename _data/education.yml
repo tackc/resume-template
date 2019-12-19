@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: Certificate in Full Stack Web Development
+  uni: General Assembly, Seattle WA
+  year: 2018
   summary: You can choose to have either a single or multiple awards
+
+- degree: Bachelor of Fine Arts, Photography
+  uni: Kendall College of Art & Design of Ferris State University
+  year: 2004 &mdash; 2007
+  summary: Being a Fine Art focused program, I took a wide variety of art classes including art history, printmaking, color theory and many photography specific courses.
+
+- degree: Bachelor of Fine Arts, Digital Media / Graphic Design
+  uni: Kendall College of Art & Design of Ferris State University
+  year: 2004 &mdash; 2007
+  summary: My focus for this degree was primarily web, video, and motion graphics though I did take numerous print design classes.
+
