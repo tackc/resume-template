@@ -1,6 +1,6 @@
 # Site settings
 title: "Chris Tack Resume"
-description: "A Resume for Full Stack Developer Chris Tack built with Jekyll and GitHub Pages sites."
+description: "A Resume for Full Stack Developer Chris Tack built with Jekyll and hosted by GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -28,8 +28,10 @@ resume_header_intro: "<p>What you need to know about me...
   <li>I'm a career-changing full-stack developer.</li>
   <li>I learned HTML, CSS, and JavaScript originally in college & then spent a few years away from development.</li>
   <li>I spent all of 2018 reacquainting myself with what's new in HTML5, CSS3, JavaScript and much more (self-taught and via attending a 12-week course).</li>
-  <li>I recently completed an internship as a Software Development Engineer at Zulily (where I have worked since 2013) and am looking for a full-time developer job.</li>
+  <li>March through July 2019 was spent as a Software Development Engineer at Zulily (where I have worked since 2013) and am looking for a full-time developer job.</li>
 </ul></p>"
+
+# <a href="http://zulily.com" target="_blank">Zulily</a>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
