@@ -1,9 +1,9 @@
 # Jobs
-# SDE Intern
+# SDE
 - company: Zulily
-  position: Software Development Engineer Intern
+  position: Software Development Engineer
   duration: March 2019 &mdash; July 2019
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Worked on the store / site team to update the site with new branding (colors, fonts, images, etc.). There was daily partnership with Product Managers and other developers on analyzing feature/business requirements or user stories, and participate in development task breakdown <ul class="resume-item-list"><li>Reskin existing pages according to Zeplin mock-ups created by the UX Team</li><li>Rebuild customer-facing pages as needed </li><li>Responsible for testing code changes in non-production environments (beta site, docker local)</li><li>Participate in code review and deploy changes once approved</li><li>Utilize Amazon Web Services (AWS) for updating images, videos and code deployment</li></ul>
 
 # Editorial Photographer
 - company: Zulily
