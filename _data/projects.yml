@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Simon - Memory Game
+- project: Simon - Memory Game
+  role: Developer
+  duration: 2018
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <p>My take on the classic Simon game. Users observe the pattern played by the computer and then repeat the pattern back in order to advance to the next round.</p> <p>It was challenging figuring out how to increment the computer move and then await user input while comparing the player move to that of the computer</p> <p>Technologies used:</p><ul><li>HTML5</li><li>CSS</li><li>Good old fashioned Javascript</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Tool Library
+- project: Tool Library
+  role: Developer
+  duration: 2018
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <p>The tool library app was built using Django. Users are able to create an account (or log in) and then add tools that they own to the tool library.</p> <p>Although it was one of my first Django and Python projects, it was fun experimenting with a new programming language!</p> <p>Technologies used:</p> <ul> <li>Django</li> <li>Python</li> <li>ES6</li> <li>Materialize</li> <li>RESTful API's</li><li>mongoDB</li></ul>
