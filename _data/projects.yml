@@ -1,8 +1,8 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Simon - Memory Game
-- project: Simon - Memory Game
+# Simon Memory Game
+- project: Simon Memory Game
   role: Developer
   duration: 2018
   # url: "#"
@@ -17,14 +17,14 @@
 
 # Seattle Transit
 - project: Seattle Transit
-role: Developer
-duration: 2018
-# url: "#"
-description: <p>Mobile-first team project (Henry Hong & Sutthirath Sean Vilaysane). We consumed the One Bus Away API and created an app allowing users to find bus stops near their current location on a map using the mapbox API.</p> <p>Technologies used:</p> <ul> <li>NodeJS</li> <li>ExpressJS</li> <li>ES6</li> <li>Materialize</li> <li>RESTful API's</li> <li>mongoDB</li> <li>mapbox API</li> <li>One Bus Away API</li></ul>
+  role: Developer
+  duration: 2018
+  # url: "#"
+  description: <p>Mobile-first team project (Henry Hong & Sutthirath Sean Vilaysane). We consumed the One Bus Away API and created an app allowing users to find bus stops near their current location on a map using the mapbox API.</p> <p>Technologies used:</p> <ul> <li>NodeJS</li> <li>ExpressJS</li> <li>ES6</li> <li>Materialize</li> <li>RESTful API's</li> <li>mongoDB</li> <li>mapbox API</li> <li>One Bus Away API</li></ul>
 
 # National Park Finder
 - project: National Park Finder
-role: Developer
-duration: 2018
-# url: "#"
-description: <p>I created the National Park Finder App to help users find parks to visit in the destination of their choosing. Users can save their favorites as well as parks they have visited. The app was build with mobile-first in mind. Media queries were used to ensure the app is aesthetically pleasing on larger displays.</p> <p>Technologies used:</p> <ul> <li>ES6</li> <li>React</li> <li>React Router</li> <li>CSS3</li> <li>RESTful API's</li> <li>mongoDB</li> <li>National Park Service API</li></ul>
+  role: Developer
+  duration: 2018
+  # url: "#"
+  description: <p>I created the National Park Finder App to help users find parks to visit in the destination of their choosing. Users can save their favorites as well as parks they have visited. The app was build with mobile-first in mind. Media queries were used to ensure the app is aesthetically pleasing on larger displays.</p> <p>Technologies used:</p> <ul> <li>ES6</li> <li>React</li> <li>React Router</li> <li>CSS3</li> <li>RESTful API's</li> <li>mongoDB</li> <li>National Park Service API</li></ul>
