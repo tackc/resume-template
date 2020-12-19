@@ -1,12 +1,40 @@
 # Jobs
 # SDE
+- company: The Be Good Project - Banana App
+  position: Full Stack Developer / DevOps
+  duration: June 2020 &mdash; Present
+  summary: I'm part of a volunteer team building software that will address hunger for families and individuals facing food insecurity, while reducing food waste and associated environment impacts.
+    <ul>
+      <li>Led Dev / Ops by creating builds for iOS, publishing to Apple App Store / TestFlight and enabling iOS app testing for members of development, product management, and UX teams.</li>
+      <li>Spearheaded process for continuous integration and continuous deployment, saving 2 hours each release.</li>
+      <li>Designed architecture solutions with project lead and development team, increasing productivity and ease of use across team for mobile application development built using React / React Native / Typescript / Ruby on Rails.</li>
+    </ul>
+
 - company: Zulily Inc.
-  position: Software Development Engineer
+  position: Full Stack Developer
   duration: March 2019 &mdash; July 2019
-  summary: Worked on the store / site team to update numerous pages with new branding (colors, fonts, images, etc.). Daily partnership with Product Managers and other developers on analyzing feature/business requirements and user stories along with participation in development task breakdown <ul class="resume-item-list"><li>Reskin existing pages according to Zeplin mock-ups created by the UX Team</li><li>Rebuild customer-facing pages as needed </li><li>Responsible for testing code changes in non-production environments (beta site / EC2, docker local)</li><li>Cross-browser and device testing to ensure consistency across mobile and desktop devices</li><li>Accessibility testing to assure compliance</li><li>Participate in code review and deploy changes once approved</li><li>Utilize Amazon Web Services (AWS) for updating images, videos and code deployment</li><li>Retouch and edit images as needed</li></ul>
+  summary: Worked on the store / site team to update numerous pages with new branding (colors, fonts, images, etc.). Daily partnership with Product Managers and other developers on analyzing feature/business requirements and user stories along with participation in development task breakdown.
+    <ul class="resume-item-list">
+      <li>Built and worked on 40+ customer facing web pages while learning PHP, completing in timely manner and approved by development lead, design lead, and project manager before being merged to production.</li>
+      <li>Decreased page load time by 15% with compatibility across modern web browsers by implementing UX page redesigns following W3C, HTML5, and ES6 standards and reducing image sizes.</li>
+      <li>Increased open communications by engaging in daily standup utilizing Agile principles to share progress.</li>
+      <li>Implemented translation function across account settings pages, enabling language localization through PHP translation function.</li>
+      <li>Documented and tracked bugs using JIRA, communicating progress.</li>
+      <li>Deployed code updates to GitLab and Amazon Web Services (AWS), pushing customer-facing content to 30+ servers simultaneously.</li>
+      <li>Maximized page load time by utilizing AWS S3 for updating, storing, and managing video and images displayed on web pages.</li>
+      <li>Designed internal tool utilizing 3rd party API, removing backgrounds from product photographs reducing image clipping cost 38%.</li>
+      <li>Leveraged Docker and AWS EC2 for software testing before deploying to production environment, eliminating impact to live version.</li>
+    </ul>
 
 # Editorial Photographer
 - company: Zulily Inc.
-  position: Editorial Photographer
-  duration:  March 2013 &mdash; Present
-  summary: Produce images for use on <a href="http://zulily.com" target="_blank">zulily.com</a> <ul><li>Collaborate with stylists, production assistants, buyers, models and producers to create photos that represent various sales on the site </li></ul>
+  position: Senior Photographer, Editorial Photographer, Videographer
+  duration:  March 2013 &mdash; August 2020
+  summary: Produce images for use on <a href="http://zulily.com" target="_blank">zulily.com</a>
+    <ul>
+      <li>Increased studio productivity by beta testing and providing feedback on internal tools via JIRA tickets and conversations with developers.</li>
+      <li>Improved daily workflow by partnering with software development team to prioritize tasks, reducing time spent on menial tasks.</li>
+      <li>Produced photo and video content for web, print, video, social media, and internal communications, representing Zulily and 3rd party vendors simultaneously.</li>
+      <li>Eliminated down time by establishing process with technical support team for managing studio computers.</li>
+      <li>Reduced photo clipping cost 38%, cost savings of $400K+ annually by formulating idea for and working on product photo clipping app that automated / sped up process.</li>
+    </ul>
