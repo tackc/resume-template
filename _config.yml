@@ -23,12 +23,12 @@ resume_contact_address:         "202 Madison St, Everett, WA"
 resume_header_contact_info:     "202 Madison St, Everett, WA<br>(989) 326-1488 • chris_tack@mac.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>What to know about me...
+resume_header_intro: "<p>Fun Facts...
 <ul>
-  <li>I'm a career-changing full-stack developer.</li>
-  <li>I learned HTML, CSS, and JavaScript originally in college & then spent a few years away from development.</li>
-  <li>I spent all of 2018 reacquainting myself with what's new in HTML5, CSS3, JavaScript and much more (self-taught and via attending a 12-week course).</li>
-  <li>March through July 2019 was spent as a Software Development Engineer at Zulily (where I have worked since 2013) and am looking for a full-time developer job.</li>
+  <li>I worked as a commercial photographer for over a decade.</li>
+  <li>I learned HTML, CSS, and JavaScript originally in college & returned to development in 2018</li>
+  <li>I spent all of 2018 reacquainting myself with what's new in HTML5, CSS3, JavaScript and much more (self-taught and via attending a 12-week, 40hr / week course).</li>
+  <li>March through July 2019 was spent as a Full Stack Developer at Zulily (where I worked from 2013 - 2020) and am looking for a full-time developer job.</li>
 </ul></p>"
 
 # <a href="http://zulily.com" target="_blank">Zulily</a>
