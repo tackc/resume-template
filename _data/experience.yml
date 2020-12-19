@@ -3,8 +3,10 @@
 - company: The Be Good Project - Banana App
   position: Full Stack Developer / DevOps
   duration: June 2020 &mdash; Present
-  summary: I'm part of a volunteer team building software that will address hunger for families and individuals facing food insecurity, while reducing food waste and associated environment impacts.
+  summary: I'm part of a volunteer team building software that will address hunger for families and individuals facing food insecurity, while reducing food waste and associated environment impacts. The live apps can be viewed on the App Store&colon; <br/>
     <ul>
+      <li><a href="https://apps.apple.com/tt/app/banana-app-client/id1528875793?ign-mpt=uo=2" target="_blank">Banana App - Client</a></li>
+      <li><a href="https://apps.apple.com/tt/app/banana-app-donor/id1528276436" target="_blank">Banana App - Donor</a></li>
       <li>Led Dev / Ops by creating builds for iOS, publishing to Apple App Store / TestFlight and enabling iOS app testing for members of development, product management, and UX teams.</li>
       <li>Spearheaded process for continuous integration and continuous deployment, saving 2 hours each release.</li>
       <li>Designed architecture solutions with project lead and development team, increasing productivity and ease of use across team for mobile application development built using React / React Native / Typescript / Ruby on Rails.</li>
