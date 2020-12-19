@@ -1,6 +1,6 @@
 # Site settings
 title: "Chris Tack Resume"
-description: "A Resume for Full Stack Developer Chris Tack built with Jekyll and hosted by GitHub Pages sites."
+description: "Resume for Full Stack Developer Chris Tack built with Jekyll and hosted on GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         "202 Madison St, Everett, WA"
 resume_header_contact_info:     "202 Madison St, Everett, WA<br>(989) 326-1488 • chris_tack@mac.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>What you need to know about me...
+resume_header_intro: "<p>What to know about me...
 <ul>
   <li>I'm a career-changing full-stack developer.</li>
   <li>I learned HTML, CSS, and JavaScript originally in college & then spent a few years away from development.</li>
